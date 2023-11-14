@@ -1,6 +1,6 @@
 ﻿namespace DemoLinq
 {
-    class Program
+    class DemoLinq
     {
         static void Main(string[] args)
         {
