@@ -1,0 +1,15 @@
+/home/sofit/Documentos/CursoLinqLambda/DemoLinq/bin/Debug/net7.0/DemoLinq
+/home/sofit/Documentos/CursoLinqLambda/DemoLinq/bin/Debug/net7.0/DemoLinq.deps.json
+/home/sofit/Documentos/CursoLinqLambda/DemoLinq/bin/Debug/net7.0/DemoLinq.runtimeconfig.json
+/home/sofit/Documentos/CursoLinqLambda/DemoLinq/bin/Debug/net7.0/DemoLinq.dll
+/home/sofit/Documentos/CursoLinqLambda/DemoLinq/bin/Debug/net7.0/DemoLinq.pdb
+/home/sofit/Documentos/CursoLinqLambda/DemoLinq/obj/Debug/net7.0/DemoLinq.csproj.AssemblyReference.cache
+/home/sofit/Documentos/CursoLinqLambda/DemoLinq/obj/Debug/net7.0/DemoLinq.GeneratedMSBuildEditorConfig.editorconfig
+/home/sofit/Documentos/CursoLinqLambda/DemoLinq/obj/Debug/net7.0/DemoLinq.AssemblyInfoInputs.cache
+/home/sofit/Documentos/CursoLinqLambda/DemoLinq/obj/Debug/net7.0/DemoLinq.AssemblyInfo.cs
+/home/sofit/Documentos/CursoLinqLambda/DemoLinq/obj/Debug/net7.0/DemoLinq.csproj.CoreCompileInputs.cache
+/home/sofit/Documentos/CursoLinqLambda/DemoLinq/obj/Debug/net7.0/DemoLinq.dll
+/home/sofit/Documentos/CursoLinqLambda/DemoLinq/obj/Debug/net7.0/refint/DemoLinq.dll
+/home/sofit/Documentos/CursoLinqLambda/DemoLinq/obj/Debug/net7.0/DemoLinq.pdb
+/home/sofit/Documentos/CursoLinqLambda/DemoLinq/obj/Debug/net7.0/DemoLinq.genruntimeconfig.cache
+/home/sofit/Documentos/CursoLinqLambda/DemoLinq/obj/Debug/net7.0/ref/DemoLinq.dll
