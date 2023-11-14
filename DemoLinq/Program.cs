@@ -11,7 +11,7 @@
             cidades.Add("Floripa");
             cidades.Add("Blumenau");
 
-            BuscarPrimeiroComLinq(cidades, "Sã").ForEach(x => Console.WriteLine(x));
+            BuscarPrimeiroComLinqLambda(cidades, "Sã").ForEach(x => Console.WriteLine(x));
             Console.ReadKey();
         }
 
@@ -34,9 +34,9 @@
             return (from item in lista where item.Contains(termo) select item).ToList();
         }
 
-        // public static string BuscarPrimeiroComLinqLambda(List<string> lista, string termo)
-        // {
-        //     return lista.First(x => x.Equals(termo));
-        // }
+        public static List<string> BuscarPrimeiroComLinqLambda(List<string> lista, string termo)
+        {
+            return lista.Where(x => x.Contains(termo)).ToList();
+        }
     }
 }
